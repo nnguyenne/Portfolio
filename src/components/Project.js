@@ -199,7 +199,7 @@ function Project() {
 
         <div className='modal__link'>
           <a href='https://taskflow-nguyenne.vercel.app/' target='blank'>🌐 Demo</a>
-          <a href='https://github.com/nnguyenne/quiz' target='blank'>💻 Source</a>
+          <a href='https://github.com/nnguyenne/taskflow' target='blank'>💻 Source</a>
         </div>
       </Modal>
 
@@ -271,8 +271,8 @@ function Project() {
         <div className="project-overlay">
           <div className='detail'>
             <p onClick={openModal5}>🔍 Xem chi tiết</p>
-            <p><a href='https://duan4-quiz-nguyen.vercel.app/' target='blank'>🌐 Demo</a></p>
-            <p><a href='https://github.com/nnguyenne/quiz' target='blank'>💻 Source</a></p>
+            <p><a href='https://taskflow-nguyenne.vercel.app/' target='blank'>🌐 Demo</a></p>
+            <p><a href='https://github.com/nnguyenne/taskflow' target='blank'>💻 Source</a></p>
           </div>
         </div>
       </div>
